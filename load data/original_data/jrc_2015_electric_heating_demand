@@ -1,0 +1,31 @@
+Country: Residential space heating (with electricity) + Service space heating (with electricity)
+AT: 335+48,
+BE: 251+506,
+BG: 97+110,
+CZ: 251+367,
+DE: 2250+1177,
+DK: 108+40,
+EE: 11+85,
+EL: 129+263,
+ES: 939+651,
+FI: 676+528,
+FR: 2776+2966,
+HR: 36+74,
+HU: 88+57,
+IE: 137+60,
+IT: 381+1435,
+LT: 19+22,
+LU: 17+32,
+LV: 7+37,
+NL: 290+285,
+PL: 196+896,
+PT: 18+322,
+RO: 148+27,
+SE: 1448+590,
+SI: 42+47,
+SK: 80+81,
+UK: 2791+1296
+
+all values in ktoe
+
+Source: JRC-IDEES: Integrated Database of the European Energy Sector: Methodological note Mantzos, L., Wiesenthal, T., Matei, N., Tchung-Ming, S., Rózsai, M., Russ, H. and Soria Ramirez, A., JRC-IDEES: Integrated Database of the European Energy Sector: Methodological note , EUR 28773 EN, Publications Office of the European Union, Luxembourg, 2017, ISBN 978-92-79-73465-6, doi:10.2760/182725, JRC108244. http://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/JRC-IDEES/JRC-IDEES-2015_v1/
