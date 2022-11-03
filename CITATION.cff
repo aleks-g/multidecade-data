@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Grochowicz"
+  given-names: "Aleksander"
+  orcid: "https://orcid.org/0000-0002-1029-2858"
+- family-names: "van Greevenbroek"
+  given-names: "Koen"
+  orcid: "https://orcid.org/0000-0002-6105-2846"
+title: "Artificial load and hydro data for 1980--2020 for a European power system"
+version: 1.0
+date-released: 2022-06-24
+url: "https://github.com/aleks-g/multidecade-data/releases/tag/v1.0"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Grochowicz"
+    given-names: "Aleksander"
+    orcid: "https://orcid.org/0000-0002-1029-2858"
+  - family-names: "van Greevenbroek"
+    given-names: "Koen"
+    orcid: "https://orcid.org/0000-0002-6105-2846"
+  - family-names: "Benth"
+    given-names: "Fred Espen"
+    orcid: "https://orcid.org/0000-0001-9907-6811"
+  - family-names: "Zeyringer"
+    given-names: "Marianne"
+    orcid: "https://orcid.org/0000-0003-1756-1878"
+  doi: "10.48550/arXiv.2206.12242"
+  title: "Intersecting near-optimal spaces: European power systems with more resilience to weather variability"
+  year: 2022
